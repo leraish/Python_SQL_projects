@@ -45,7 +45,8 @@
 * Пользователи, добавляющие объявления в избранное имеют конверсию выше, чем поьзователи, не совершающие это действие.
 
 **Презентация:** https://disk.yandex.ru/i/8LzF9RbRZxIz6Q
-**Дашбордв Tableau:** https://public.tableau.com/app/profile/.10794569/viz/useless_thing_dash/Dashboard3?publish=yes
+
+**Дашборд в Tableau:** https://public.tableau.com/app/profile/.10794569/viz/useless_thing_dash/Dashboard3?publish=yes
 
 ----
 
